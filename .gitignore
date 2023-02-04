@@ -1,0 +1,5 @@
+# Project exclude paths
+/encrypt_decrypt/target/
+/ihrm_common/target/
+/ihrm_common_model/target/
+/ihrm_company/target/
